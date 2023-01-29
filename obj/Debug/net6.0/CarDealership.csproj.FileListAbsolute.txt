@@ -1,0 +1,15 @@
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/bin/Debug/net6.0/CarDealership
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/bin/Debug/net6.0/CarDealership.deps.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/bin/Debug/net6.0/CarDealership.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/bin/Debug/net6.0/CarDealership.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/bin/Debug/net6.0/CarDealership.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.csproj.AssemblyReference.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.AssemblyInfoInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.AssemblyInfo.cs
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.csproj.CoreCompileInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/refint/CarDealership.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.pdb
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/CarDealership.genruntimeconfig.cache
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/Debug/net6.0/ref/CarDealership.dll

@@ -32,6 +32,7 @@ namespace Dealership
       Car yugo = new Car("1980 Yugo Koral", 700, 56000);
       Car ford = new Car("1988 Ford Country Squire", 1400, 239001);
       Car amc = new Car("1976 AMC Pacer", 400, 198000);
+      Motorcycle kawasaki = new Motorcycle("ninja", 400, 198000);
 
       List<Car> Cars = new List<Car>() { volkswagen, yugo, ford, amc };
 
@@ -53,6 +54,26 @@ namespace Dealership
       {
         Console.WriteLine(automobile.MakeModel);
       }
+      // List<Motorcycle> Motorcycles = new List<Motorcycle>() { kawasaki };
+
+      // Console.WriteLine("Enter maximum price: ");
+      // string stringMaxPrice = Console.ReadLine();
+      // int maxPrice = int.Parse(stringMaxPrice);
+
+      // List<Motorcycle> BikesMatchingSearch = new List<Motorcycle>(0);
+
+      // foreach (Motorcycle automobile in Motorcycles)
+      // {
+      //   if (automobile.WorthBuying(maxPrice))
+      //   {
+      //     BikesMatchingSearch.Add(automobile);
+      //   }
+      // }
+
+      // foreach (Motorcycle automobile in BikesMatchingSearch)
+      // {
+      //   Console.WriteLine(automobile.MakeModel);
+      // }
     }
   }
 }

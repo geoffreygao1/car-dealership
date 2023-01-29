@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj",
-      "projectName": "Car",
-      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj",
+      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/CarDealership.csproj",
+      "projectName": "CarDealership",
+      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/CarDealership.csproj",
       "packagesPath": "/Users/geoffreygao/.nuget/packages/",
       "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/",
       "projectStyle": "PackageReference",

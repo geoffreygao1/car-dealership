@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2QO7xqI+bkAqZSFZt/WxW/ZyCmQYJp9A14NLWHzStI69TwmUAP7h1GpkzF2g/TcBP+iym4fbrbsz3itOSS406w==",
+  "dgSpecHash": "AgGA9eYHzV7YLVuTYn+DqeyA+ulU/wwRrAC7tFajU/sQijNv6woHui80lhT5FkWBYzWin/vdLADmlqnSTSV7HQ==",
   "success": true,
-  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj",
+  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/CarDealership.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
