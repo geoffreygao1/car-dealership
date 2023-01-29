@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/Car.csproj": {}
+    "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj": {}
   },
   "projects": {
-    "/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/Car.csproj": {
+    "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/Car.csproj",
+        "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj",
         "projectName": "Car",
-        "projectPath": "/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/Car.csproj",
+        "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/Car.csproj",
         "packagesPath": "/Users/geoffreygao/.nuget/packages/",
-        "outputPath": "/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/",
+        "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/car-dealership/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/geoffreygao/.nuget/NuGet/NuGet.Config"
