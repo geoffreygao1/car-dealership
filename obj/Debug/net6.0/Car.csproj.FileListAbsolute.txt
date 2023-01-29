@@ -1,0 +1,15 @@
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/bin/Debug/net6.0/Car
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/bin/Debug/net6.0/Car.deps.json
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/bin/Debug/net6.0/Car.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/bin/Debug/net6.0/Car.dll
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/bin/Debug/net6.0/Car.pdb
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.csproj.AssemblyReference.cache
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.AssemblyInfo.cs
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.dll
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/refint/Car.dll
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.pdb
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/Car.genruntimeconfig.cache
+/Users/geoffreygao/Desktop/Epicodus/C# Intro /car/obj/Debug/net6.0/ref/Car.dll
